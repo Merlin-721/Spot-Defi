@@ -1,0 +1,5 @@
+{
+    "CommodityId": "Hash",
+    "CommodityInfo": "Vec<u8>",
+    "Commodity": "(CommodityId, CommodityInfo)"
+  }
